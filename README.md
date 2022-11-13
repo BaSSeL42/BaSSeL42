@@ -1,6 +1,6 @@
-                                                                # Hi there 👋
+# Hi there 👋
 
-                                                      ## My name is **Bassel Yasser** 😎
+## My name is **Bassel Yasser** 😎
                                                       
 - 🌱 I’m currently learning Embedded System on ITI
 
