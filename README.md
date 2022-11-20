@@ -2,7 +2,7 @@
 
 ## My name is **Bassel Yasser** 😎
                                                       
-- 🌱 I’m currently learning Embedded System on ITI
+- 🌱 I’m currently learning Embedded System at ITI
 
 - 📫 How to reach me --->  This is my [linkedin account](https://www.linkedin.com/in/bassel-yasser-0561161a7/)
 
